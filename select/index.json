@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "キャッチボール",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-03T12:58:40.177149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャッチボール",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_キャッチボール_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャッチボール",
+      "artist": "平井堅",
+      "has_synced": false,
+      "path": "select/02_キャッチボール_平井堅.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キャッチボール",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/03_キャッチボール_Official髭男dism.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キャッチボール",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/04_キャッチボール_Official_HIGE_DANdism.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キャッチボール",
+      "artist": "OfficialHigeDandism",
+      "has_synced": false,
+      "path": "select/05_キャッチボール_OfficialHigeDandism.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャッチボール",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_キャッチボール_Official髭男dism.txt"
+    }
+  ]
+}
