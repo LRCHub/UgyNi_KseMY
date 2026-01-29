@@ -1,4 +1,4 @@
-# Official髭男dism – キャッチボール
+# Official髭男dism – キャッチボール (Live)
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
